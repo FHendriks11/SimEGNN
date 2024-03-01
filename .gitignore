@@ -1,0 +1,11 @@
+__pycache__*
+adahessian/
+data/*
+mlruns*
+outputs*
+rescale/
+results/*
+SFConflict/
+*.bak
+*.pdf
+*.pkl
